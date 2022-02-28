@@ -7,4 +7,4 @@ Contains python code from the summer internship in 2021. `JSON_to_NetCDF.py` con
 Contains my submitted master thesis, "Using NORA3 to investigate the impact of inversion trends on NO2 concentration trends in Oslo and Bergen".
 
 ## STK4900
-Contains assignment 2 from Statistical Methods and Applications (STK4900), showing numerically statistical analyzation of data using R.
+Contains assignment 2 from Statistical Methods and Applications (STK4900), showing numerically statistical analyzation of data using R. The code used for the assignment can be found at the end of the PDF-file.
